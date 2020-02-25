@@ -66,7 +66,7 @@
             <li>Time: 8pm</li>
             <li>Place: 123 Main Street, Manhattan, New York</li>
             <li>Phone: (123)46579809
-        </ul>
+  
         <h2 id="end"><center>Let's celebrate New Year together and have fun</center></h2>
         <h3 id="endd"><center>Please be on time !</center></h3>
         
