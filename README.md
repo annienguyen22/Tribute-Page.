@@ -5,7 +5,7 @@
      }
     .white {
        font-family:"Lobster";
-       font-size: 80px;
+       font-size: 100px;
        border-style:inset;
        border-width:6px;
        border-color:yellow;
