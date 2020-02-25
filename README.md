@@ -70,5 +70,3 @@
         <h2 id="end"><center>Let's celebrate New Year together and have fun</center></h2>
         <h3 id="endd"><center>Please be on time !</center></h3>
         
-    </body>
-</html>
