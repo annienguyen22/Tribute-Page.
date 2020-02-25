@@ -15,7 +15,7 @@
 <div class="text-center">
 <h1 class="white"><center> Albert Einstein </center></h1>
 <h4> “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle." </h4>
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/170px-Albert_Einstein_Head.jpg"
+<img src= "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg" width="100"
        
     
 </div>
