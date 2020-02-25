@@ -4,7 +4,7 @@
        color:white;
      }
     .white {
-       font-family:"Loster";
+       font-family:"Lobster";
        font-size: 80px;
        border-style:inset;
        border-width:6px;
